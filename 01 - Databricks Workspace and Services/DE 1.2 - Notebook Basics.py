@@ -61,6 +61,7 @@
 # COMMAND ----------
 
 print("I'm running Python!")
+print('Hello World!')
 
 # COMMAND ----------
 
